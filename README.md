@@ -7,4 +7,4 @@ Objetivo: carregar um arquivo pgm (imagem em tons de cinza) e realizar 3 operaç
 - Negativo: subtrair de 255 os valores de cada pixel da imagem, criar nova matriz com esses valores e um novo arquivo pgm.
 - Histograma: contar a quantidade de vezes que cada tonalidade de cinza aparece na imagem e criar novo arquivo txt apresentando os valores.
 
-Utiliza conhecimentos em arquivos, funções e alocação dinâmica de vetores e matrizes em C.
+Utiliza conhecimentos em arquivos, funções, ponteiros e alocação dinâmica de vetores e matrizes em C.
